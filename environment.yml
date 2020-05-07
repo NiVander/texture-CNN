@@ -42,6 +42,7 @@ dependencies:
   - numpydoc=0.9.1
   - olefile=0.46
   - packaging=19.2
+  - pandas=1.0.3
   - pandocfilters=1.4.2
   - parso=0.5.2
   - pathtools=0.1.2
